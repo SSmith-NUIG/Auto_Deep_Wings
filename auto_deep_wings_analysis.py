@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import seaborn as sns
 import matplotlib.pyplot as plt
-# Get list of the pairwise files outputted by poolfstat script
+# Get list of the deep wings output from deepwings
 list_of_auto_deep_wings = os.listdir("/home/stephen/Documents/deep_wings/deep_wings_output/auto")
 len(list_of_auto_deep_wings)
 df_list = []
