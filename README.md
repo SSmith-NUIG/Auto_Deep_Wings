@@ -12,9 +12,9 @@ Manual time taken: 7040 minutes (117.3 hours)
 Auto deep wings time taken: 440 minutes. (7.3 hours)  
   
 auto_deep_wings_cropping takes as input a glass sample slide containing honey bee wings which have been affixed   
-to the slide using transparent tape.  
+to the slide using transparent tape. Example file can be found in this repository.
   
-auto_deep_wings_website then create a firefox instance and upload these cropped images to the software and  
+auto_deep_wings_website then create a firefox instance and uploads these cropped images to the software and  
 downloads the resulting excel file  
 
 auto_deep_wings_analysis is an example of how we typically analyse multiple output files at once.  
