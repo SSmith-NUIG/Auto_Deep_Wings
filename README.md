@@ -6,6 +6,7 @@ This repository contains scripts made to assist in using this software on a larg
 When running this analysis manually it was taking our lab 16 minutes per sample.  
 These scripts allows analysis of each sample to take less than 1 minute with the main delay being   
 the runtime of using the deepwings website itself.  
+This could be vastly improved with running multiple firefox instances at once.  Not required for our purposes.  
   
 Current project was analysing 440 honey bee colonies:  
 Manual time taken: 7040 minutes (117.3 hours)  
